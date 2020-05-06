@@ -1,0 +1,21 @@
+$pad: 20px;
+$size: 36px;
+body>p
+  {
+padding: $pad;
+position: relative;
+text-align: center;
+font-size:$size
+  }
+
+body>br
+  {
+    position: relative;
+    text-align: center;
+  }
+
+h3{
+  position: relative;
+  text-align: center;
+  padding-top: 60px;
+}
